@@ -1,0 +1,6 @@
+streamlit
+elasticsearch
+PyPDF2
+ibm-watsonx-ai
+transformers
+langchain
