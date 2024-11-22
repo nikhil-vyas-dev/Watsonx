@@ -22,8 +22,8 @@ A Streamlit application that combines IBM Watsonx.AI with Elasticsearch to provi
 1. Clone this repository: 
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/nikhil-vyas-dev/Watsonx.git
+cd Watsonx/Elasticsearch-RAG/app1
 ```
 
 2. Install the required dependencies:
